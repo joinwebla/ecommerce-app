@@ -60,7 +60,7 @@ const Login = () => {
     return (
         <div className="auth-page">
             <div className="singup-section">
-                <h1>Login Here</h1>
+                <h1>Please Login</h1>
                 <form>
                     <div class="form-group mb-10">
                         <label>Email address</label>
